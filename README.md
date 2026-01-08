@@ -1,7 +1,7 @@
 ### Olá, eu sou o Cauã Couto 👋  
 
-Sou **Desenvolvedor Back-End**, focado em construir soluções escaláveis, manuteníveis e orientadas ao negócio.  
-Tenho experiência prática com **Java, Spring Boot, bancos de dados SQL** e sistemas corporativos, atuando em cenários reais de logística e ERP.
+Sou **Desenvolvedor Back-End**, focado em construir soluções escaláveis e orientadas ao negócio.  
+Tenho experiência com **Java, Spring Boot, bancos de dados SQL** e sistemas corporativos, atuando em cenários reais de logística e ERP.
 
 ---
 
