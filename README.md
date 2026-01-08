@@ -1,16 +1,51 @@
-## Hi there 👋
+### Olá, eu sou o Cauã Couto 👋  
 
-<!--
-**ccouto-dev/ccouto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Back-End**, focado em construir soluções escaláveis, manuteníveis e orientadas ao negócio.  
+Tenho experiência prática com **Java, Spring Boot, bancos de dados SQL** e sistemas corporativos, atuando em cenários reais de logística e ERP.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 💻 Desenvolvedor Back-End com forte foco no **ecossistema Java & Spring**
+- 🧠 Experiência com **sistemas corporativos**, validações e integrações
+- 📦 Familiaridade com **fluxos logísticos, controle de estoque e ambientes ERP**
+- 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
+- 🌍 Inglês **fluente (C1)** | Espanhol **intermediário (B1)**
+
+---
+
+### 🛠️ Ferramentas & Plataformas
+[![Ferramentas](https://skillicons.dev/icons?i=idea,eclipse,spring,git,postman,visualstudio)](https://skillicons.dev)
+
+---
+
+### ⚙️ Back-End
+[![Back-End](https://skillicons.dev/icons?i=java,mysql,cs)](https://skillicons.dev)
+
+---
+
+### 🎨 Front-End
+[![Front-End](https://skillicons.dev/icons?i=react,javascript,html,css)](https://skillicons.dev)
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccouto-dev&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccouto-dev&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+### 🌐 Conecte-se comigo
+<div>
+  <a href="https://www.linkedin.com/in/cau%C3%A3-couto-741041274/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:soueucouto1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/cxouto/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
