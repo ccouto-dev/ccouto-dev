@@ -8,7 +8,7 @@ Tenho experiência prática com **Java, Spring Boot, bancos de dados SQL** e sis
 ### 🚀 Sobre mim
 - 💻 Desenvolvedor Back-End com forte foco no **ecossistema Java & Spring**
 - 🧠 Experiência com **sistemas corporativos**, validações e integrações
-- 📦 Familiaridade com **fluxos logísticos, controle de estoque e ambientes ERP**
+- 📦 Experiência com **fluxos logísticos, controle de estoque e ambientes ERP**
 - 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**
 - 🌍 Inglês **fluente (C1)** | Espanhol **intermediário (B1)**
 
@@ -26,14 +26,6 @@ Tenho experiência prática com **Java, Spring Boot, bancos de dados SQL** e sis
 
 ### 🎨 Front-End
 [![Front-End](https://skillicons.dev/icons?i=react,javascript,html,css)](https://skillicons.dev)
-
----
-
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccouto-dev&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccouto-dev&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
-</div>
 
 ---
 
